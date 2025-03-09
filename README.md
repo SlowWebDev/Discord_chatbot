@@ -22,7 +22,8 @@ Minecraft Support Bot is a Discord bot designed to help users manage Minecraft s
 
 Clone this repository to your local machine:
 
-after this make  .env file add 
+**after this make  .env file add**
+```sh
 DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN
 GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 PANEL_URL=https://example.com/
