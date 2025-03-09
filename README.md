@@ -27,6 +27,4 @@ Clone this repository to your local machine:
 DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN
 GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 PANEL_URL=https://example.com/
-```sh
-git clone https://github.com/username/minecraft-support-bot.git
-cd minecraft-support-bot
+
